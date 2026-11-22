@@ -1,0 +1,24 @@
+{
+  "name": "atoll-booking-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Portfolio demo: a booking flow with pricing in Georgian lari. Invented data, mocked back end.",
+  "scripts": {
+    "dev": "next dev -p 4820",
+    "build": "next build",
+    "start": "next start -p 4820",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test \"tests/*.test.ts\""
+  },
+  "dependencies": {
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
