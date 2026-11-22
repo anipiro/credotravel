@@ -6,7 +6,7 @@ Booking website for Credo Travel, a Georgian agency selling trips to the Maldive
 
 ![Home page](screenshots/home-desktop.png)
 
-I built this site at [AllOne](https://github.com/allonelabs). This repository is a showcase: the source code belongs to the client and stays private.
+I built this site at [AllOne](https://github.com/allonelabs). The source code belongs to the client and stays private, so this repository describes the project instead.
 
 ## What it does
 
