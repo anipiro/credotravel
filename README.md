@@ -31,4 +31,4 @@ I built this site at [AllOne](https://github.com/allonelabs). This repository is
 
 - Prices from the supplier arrive in dollars. Converting, adding the agency's margin and rounding without overcharging took several passes.
 - Database views were running with their owner's rights, which bypassed row-level security. I found and fixed that, along with a path that let a customer confirm their own booking.
-- The site only shows resorts and figures that exist in the supplier's data; every invented placeholder was removed before launch.
+- The site only shows resorts and figures that exist in the supplier's data; every invented placeholder was removed.
